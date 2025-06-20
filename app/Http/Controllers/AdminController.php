@@ -241,6 +241,6 @@ class AdminController extends Controller
         Session::forget('admin_id');
         return view ('landingpage/landingpage');
     }
-
+    //sadasdsagi
 
 }
